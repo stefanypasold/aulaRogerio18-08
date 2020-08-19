@@ -1,0 +1,30 @@
+body{
+    background-color: #BEBEBE; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.log{
+    box-shadow: 10px 10px 5px grey; 
+    border-radius: 20px; 
+    width: 300px;
+    background:white; 
+    padding: 50px; 
+    margin-right: auto; 
+    margin-top: 60px; 
+    margin-left: auto;
+}
+
+input{
+    box-shadow: 0.5px 0.5px 5px; 
+    border-radius: 5px; 
+    width:300px; 
+    box-sizing: border-box; 
+    border: 1px solid #9999;
+}
+
+button{
+    box-shadow: 0.5px 0.5px 5px grey; 
+    border-radius: 5px; 
+    background-color:#1874CD; 
+    color: white;
+}
